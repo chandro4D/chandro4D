@@ -25,7 +25,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 <!-- <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/> -->
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
+<img src="https://i.ibb.co/JrzMzFq/c.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
 </p>
 <p align="center">
