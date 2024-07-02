@@ -2,8 +2,9 @@
 <img src="https://i.ibb.co/TbXZvG7/github-header-image.png" />
 </a>
 <br>
-
-<p>👋 Hi there! I'm [Your Name], a junior web developer with a passion for creating responsive and user-friendly web applications. I thrive on challenges and am always eager to learn new technologies and improve my skills.
+<br>
+## :About me
+<p>👋 Hi there! I'm Chandra Shekhor Mondal, a junior web developer with a passion for creating responsive and user-friendly web applications. I thrive on challenges and am always eager to learn new technologies and improve my skills.
 </p>
 
 ## :chart_with_upwards_trend: Current Stats
