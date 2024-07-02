@@ -9,13 +9,17 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
+
+<!-- ------------------- -->
 ## :mailbox: Reach me out
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+[<p align="center"><img height="75" src="https://i.ibb.co/g4CxM3b/Linkedin.png">](www.linkedin.com/in/chandra-shekhor-mondal)[<img height="75" src="https://i.ibb.co/kc04WJ3/Facebook.png">](https://www.facebook.com/chandro.shakhor.1)
 
 <br />
+<!-- ------------------------------------------------------------------- -->
+
 <!-------------- some technology i explore----------- -->
 ## :computer: Technologies that I know
 
@@ -41,6 +45,8 @@
 <img src="https://i.ibb.co/tYfnKcB/express.png"/>
 <img src="https://i.ibb.co/xSGpYQZ/mongo.png"/>
 </p><br/>
+<!-- ---------------------------------------------- -->
+
 
 ## :eyes: Current overview
 
