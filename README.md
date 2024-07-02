@@ -1,5 +1,6 @@
 <a href="https://www.facebook.com/chandro.shakhor.1/">
-<img src="https://i.ibb.co/TbXZvG7/github-header-image.png" />
+<!-- <img src="https://i.ibb.co/TbXZvG7/github-header-image.png" /> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 </a>
 <br>
 <br>
