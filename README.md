@@ -12,10 +12,11 @@
 ## :chart_with_upwards_trend: Current Stats
 <br />
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=chandro4D%20)](https://git.io/streak-stats)
+
   <img width="60%" src="https://streak-stats.demolab.com?user=chandro4D%20" />
 </p>
-
+[<p align="center"><img width="60%" src="https://streak-stats.demolab.com?user=chandro4D%20&type=png">](https://git.io/streak-stats)
+</p>
 
 <!-- ------------------- -->
 ## :mailbox: Reach me out
