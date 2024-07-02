@@ -1,11 +1,12 @@
 <a href="https://www.facebook.com/chandro.shakhor.1/">
 <img src="https://i.ibb.co/TbXZvG7/github-header-image.png" />
 </a>
-## About Me
+## :chart_with_upwards_trend: About Me
+
 <p>👋 Hi there! I'm [Your Name], a junior web developer with a passion for creating responsive and user-friendly web applications. I thrive on challenges and am always eager to learn new technologies and improve my skills.
-## :chart_with_upwards_trend: Current Stats</p>
+</p>
 
-
+## :chart_with_upwards_trend: Current Stats
 <br />
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=chandro4D%20" />
