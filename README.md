@@ -3,7 +3,8 @@
 </a>
 <br>
 <br>
-## :About me
+<h1>About me</h1>
+<br>
 <p>👋 Hi there! I'm Chandra Shekhor Mondal, a junior web developer with a passion for creating responsive and user-friendly web applications. I thrive on challenges and am always eager to learn new technologies and improve my skills.
 </p>
 
