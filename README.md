@@ -1,6 +1,6 @@
 <a href="https://www.facebook.com/chandro.shakhor.1/">
-<!-- <img src="https://i.ibb.co/TbXZvG7/github-header-image.png" /> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
+<img src="https://i.ibb.co/TbXZvG7/github-header-image.png" />
+
 </a>
 <br>
 <br>
@@ -12,6 +12,7 @@
 ## :chart_with_upwards_trend: Current Stats
 <br />
 <p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=chandro4D%20)](https://git.io/streak-stats)
   <img width="60%" src="https://streak-stats.demolab.com?user=chandro4D%20" />
 </p>
 
