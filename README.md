@@ -1,7 +1,7 @@
 <a href="https://www.facebook.com/chandro.shakhor.1/">
 <img src="https://i.ibb.co/TbXZvG7/github-header-image.png" />
 </a>
-## :chart_with_upwards_trend: About Me
+<br>
 
 <p>👋 Hi there! I'm [Your Name], a junior web developer with a passion for creating responsive and user-friendly web applications. I thrive on challenges and am always eager to learn new technologies and improve my skills.
 </p>
@@ -53,9 +53,7 @@
 
 ## :eyes: Current overview
 
-<div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
-</div>
+
 
 <!-- ### 🔭 I’m working - In Programming Hero.  -->
 ### 🌱 I’m exploring - Advance motion graphics for web. 
