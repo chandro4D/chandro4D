@@ -16,30 +16,30 @@
 [<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
 
 <br />
-
+<!-------------- some technology i explore----------- -->
 ## :computer: Technologies that I know
 
 <br>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<!-- <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/> -->
+<img src="https://i.ibb.co/GHDn9wY/HTML.png"/>
+<img src="https://i.ibb.co/4YFH8rz/css.png"/>
+<img src="https://i.ibb.co/kxVpg7V/Java-Script.png"/>
+
 <img src="https://i.ibb.co/JrzMzFq/c.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
+<img src="https://i.ibb.co/vLcWYSQ/cpp.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<!-- <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/> -->
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+<img src="https://i.ibb.co/bKp9mFP/react.png"/>
+
+
+<img src="https://i.ibb.co/h8xTh68/tailwind.png"/>
+
+<img src="https://i.ibb.co/s5Hh81r/firebase.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img src="https://i.ibb.co/ZWz3SHr/node.png"/>
+<img src="https://i.ibb.co/tYfnKcB/express.png"/>
+<img src="https://i.ibb.co/xSGpYQZ/mongo.png"/>
 </p><br/>
 
 ## :eyes: Current overview
